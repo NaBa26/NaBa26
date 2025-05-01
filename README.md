@@ -1,8 +1,4 @@
-# Greetings
-
-I'm Naman, a former consulting associate transitioning into technology. Currently awaiting to start my Masters in Computer Science, I'm using this time to enhance my programming skills, primarily focused on Java for Data Structures and Algorithms (DSA) practice. I've built small yet impactful projects and explored analysis and visualization tasks.
-
-With an Electronics background, I'm working on projects that integrate Computer Science with Electronics and Communication Engineering (ECE). Excited to learn and grow in this dynamic field, I look forward to new opportunities.
+I'm a former consulting associate transitioning into the tech space. Currently pursuing my Master's in Computer Science and Information Security. I have previously completed my Bachelor's in Electronics and Communication Engineering.
 
 ## My Tech Stack
 
