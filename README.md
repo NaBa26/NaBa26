@@ -14,4 +14,5 @@ I'm a former consulting associate transitioning into the tech space. Currently p
   <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="Icon 16" width="50">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="Icon 16" width="50">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/codeigniter.svg" alt="Icon 16" width="50">
-</div>
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="Icon 17" width="50">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="Icon 18" width="50">
